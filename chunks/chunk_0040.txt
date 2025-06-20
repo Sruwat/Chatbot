@@ -1,0 +1,9 @@
+the refund if the eBay Payment Entities processed the original payment. Refund timing may 
+vary in accordance with the rules of third parties, such as credit and debit card networks; 
+• You agree to comply with, and not cause a third party to violate, all applicable laws, 
+regulations, rules and terms and conditions in connection with the use of the services 
+provided by the eBay Payment Entities. You understand that some third parties, such as 
+credit and debit card issuers, credit and debit card networks and payments services 
+providers, may have their own terms and conditions for the payment or settlement methods 
+you choose to use in connection with managed payments transactions. Failure to abide by 
+third-party terms and conditions may result in fees assessed to you (for example, currency

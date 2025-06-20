@@ -1,0 +1,6 @@
+amount of payments received; 
+• In certain instances, your transaction may be declined, frozen, or held for any reason 
+including for suspected fraud, Anti-Money Laundering ("AML") compliance, compliance with 
+economic or trade sanctions, in connection with eBay's internal risk controls or due to 
+potential violations of any policy of eBay or the eBay Payment Entity, or a policy of one of the 
+Payment Entity's third-party payment services providers;

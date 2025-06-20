@@ -1,0 +1,5 @@
+permitted to return the item if the item is eligible for return. 
+In certain instances, a buyer may be responsible for the cost of return shipping for an item returned 
+to a seller. If the buyer is responsible for the return shipping costs, the buyer may elect to use an 
+eBay-generated shipping label or purchase a shipping label directly from a carrier. By choosing to use 
+an eBay-generated shipping label, you (as a buyer) agree that eBay may deduct the cost of the

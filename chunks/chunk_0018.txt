@@ -1,0 +1,6 @@
+of factors, including, but not limited to: 
+• buyer's location, search query, browsing site, and history; 
+• item's location, listing format, price and shipping cost, terms of service, end time, 
+history, and relevance to the user query; 
+• seller's history, including listing practices, Detailed Seller Ratings, eBay policy 
+compliance, feedback, and defect rate; and
